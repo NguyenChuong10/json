@@ -1,0 +1,218 @@
+{
+  "data": {
+    "user": {
+      "id": "user_12345",
+      "username": "your_username",
+      "following_count": 20,
+      "following": [
+        {
+          "id": "user_100000",
+          "username": "foodie_8330",
+          "full_name": "Võ Anh M",
+          "profile_pic_url": "https://example.com/avatars/foodie_8330.jpg",
+          "is_verified": false,
+          "follower_count": 6941,
+          "bio": "🍜 Food Blogger | Khám phá ẩm thực VN",
+          "followed_at": "2025-10-10T09:04:00.292Z"
+        },
+        {
+          "id": "user_100001",
+          "username": "photo_1224",
+          "full_name": "Lý Hoàng L",
+          "profile_pic_url": "https://example.com/avatars/photo_1224.jpg",
+          "is_verified": false,
+          "follower_count": 16005,
+          "bio": "📸 Photographer | Capturing Moments",
+          "followed_at": "2025-10-17T22:16:41.013Z"
+        },
+        {
+          "id": "user_100002",
+          "username": "photo_5869",
+          "full_name": "Lý Hoàng M",
+          "profile_pic_url": "https://example.com/avatars/photo_5869.jpg",
+          "is_verified": true,
+          "follower_count": 39271,
+          "bio": "📸 Photographer | Capturing Moments",
+          "followed_at": "2025-09-28T07:52:30.850Z"
+        },
+        {
+          "id": "user_100003",
+          "username": "tech_dev_8134",
+          "full_name": "Dương Thị O",
+          "profile_pic_url": "https://example.com/avatars/tech_dev_8134.jpg",
+          "is_verified": false,
+          "follower_count": 35455,
+          "bio": "💻 Software Engineer | Code & Coffee",
+          "followed_at": "2025-08-21T18:11:53.395Z"
+        },
+        {
+          "id": "user_100004",
+          "username": "business_563",
+          "full_name": "Vũ Đức T",
+          "profile_pic_url": "https://example.com/avatars/business_563.jpg",
+          "is_verified": false,
+          "follower_count": 13584,
+          "bio": "🚀 Entrepreneur | Startup Founder",
+          "followed_at": "2025-09-16T07:01:01.302Z"
+        },
+        {
+          "id": "user_100005",
+          "username": "foodie_7853",
+          "full_name": "Đặng Quốc M",
+          "profile_pic_url": "https://example.com/avatars/foodie_7853.jpg",
+          "is_verified": false,
+          "follower_count": 14982,
+          "bio": "🍜 Food Blogger | Khám phá ẩm thực VN",
+          "followed_at": "2025-09-14T15:28:05.986Z"
+        },
+        {
+          "id": "user_100006",
+          "username": "business_612",
+          "full_name": "Hoàng Thu H",
+          "profile_pic_url": "https://example.com/avatars/business_612.jpg",
+          "is_verified": true,
+          "follower_count": 32753,
+          "bio": "🚀 Entrepreneur | Startup Founder",
+          "followed_at": "2025-10-26T07:22:20.776Z"
+        },
+        {
+          "id": "user_100007",
+          "username": "music_3562",
+          "full_name": "Nguyễn Văn X",
+          "profile_pic_url": "https://example.com/avatars/music_3562.jpg",
+          "is_verified": true,
+          "follower_count": 4190,
+          "bio": "🎵 Music Producer | EDM Vibes",
+          "followed_at": "2025-11-04T20:28:23.754Z"
+        },
+        {
+          "id": "user_100008",
+          "username": "artist_7632",
+          "full_name": "Phạm Minh P",
+          "profile_pic_url": "https://example.com/avatars/artist_7632.jpg",
+          "is_verified": false,
+          "follower_count": 12935,
+          "bio": "🎭 Digital Artist | NFT Creator",
+          "followed_at": "2025-10-05T01:44:58.687Z"
+        },
+        {
+          "id": "user_100009",
+          "username": "artist_4182",
+          "full_name": "Trần Thị X",
+          "profile_pic_url": "https://example.com/avatars/artist_4182.jpg",
+          "is_verified": false,
+          "follower_count": 5135,
+          "bio": "🎭 Digital Artist | NFT Creator",
+          "followed_at": "2025-09-10T21:45:20.325Z"
+        },
+        {
+          "id": "user_100010",
+          "username": "student_3629",
+          "full_name": "Võ Anh U",
+          "profile_pic_url": "https://example.com/avatars/student_3629.jpg",
+          "is_verified": false,
+          "follower_count": 18215,
+          "bio": "📚 Student | Learning & Growing",
+          "followed_at": "2025-11-05T12:38:05.383Z"
+        },
+        {
+          "id": "user_100011",
+          "username": "music_3680",
+          "full_name": "Vũ Đức G",
+          "profile_pic_url": "https://example.com/avatars/music_3680.jpg",
+          "is_verified": false,
+          "follower_count": 7088,
+          "bio": "🎵 Music Producer | EDM Vibes",
+          "followed_at": "2025-09-18T05:20:26.932Z"
+        },
+        {
+          "id": "user_100012",
+          "username": "designer_8898",
+          "full_name": "Bùi Thị T",
+          "profile_pic_url": "https://example.com/avatars/designer_8898.jpg",
+          "is_verified": false,
+          "follower_count": 6566,
+          "bio": "🎨 UI/UX Designer | Creative Mind",
+          "followed_at": "2025-10-31T18:02:15.125Z"
+        },
+        {
+          "id": "user_100013",
+          "username": "photo_541",
+          "full_name": "Đặng Quốc F",
+          "profile_pic_url": "https://example.com/avatars/photo_541.jpg",
+          "is_verified": true,
+          "follower_count": 39720,
+          "bio": "📸 Photographer | Capturing Moments",
+          "followed_at": "2025-08-18T19:01:09.236Z"
+        },
+        {
+          "id": "user_100014",
+          "username": "music_4004",
+          "full_name": "Võ Anh V",
+          "profile_pic_url": "https://example.com/avatars/music_4004.jpg",
+          "is_verified": true,
+          "follower_count": 9916,
+          "bio": "🎵 Music Producer | EDM Vibes",
+          "followed_at": "2025-11-10T04:10:35.321Z"
+        },
+        {
+          "id": "user_100015",
+          "username": "tech_dev_3702",
+          "full_name": "Phạm Minh E",
+          "profile_pic_url": "https://example.com/avatars/tech_dev_3702.jpg",
+          "is_verified": false,
+          "follower_count": 9705,
+          "bio": "💻 Software Engineer | Code & Coffee",
+          "followed_at": "2025-10-14T17:48:59.896Z"
+        },
+        {
+          "id": "user_100016",
+          "username": "travel_4818",
+          "full_name": "Đặng Quốc D",
+          "profile_pic_url": "https://example.com/avatars/travel_4818.jpg",
+          "is_verified": false,
+          "follower_count": 44052,
+          "bio": "✈️ Travel Enthusiast | Explore Vietnam",
+          "followed_at": "2025-10-23T19:12:13.897Z"
+        },
+        {
+          "id": "user_100017",
+          "username": "fitness_934",
+          "full_name": "Bùi Thị C",
+          "profile_pic_url": "https://example.com/avatars/fitness_934.jpg",
+          "is_verified": false,
+          "follower_count": 4711,
+          "bio": "💪 Fitness Coach | Healthy Lifestyle",
+          "followed_at": "2025-10-11T07:39:52.969Z"
+        },
+        {
+          "id": "user_100018",
+          "username": "foodie_5932",
+          "full_name": "Phạm Minh M",
+          "profile_pic_url": "https://example.com/avatars/foodie_5932.jpg",
+          "is_verified": false,
+          "follower_count": 19389,
+          "bio": "🍜 Food Blogger | Khám phá ẩm thực VN",
+          "followed_at": "2025-08-28T07:07:58.683Z"
+        },
+        {
+          "id": "user_100019",
+          "username": "foodie_3839",
+          "full_name": "Dương Thị M",
+          "profile_pic_url": "https://example.com/avatars/foodie_3839.jpg",
+          "is_verified": false,
+          "follower_count": 15322,
+          "bio": "🍜 Food Blogger | Khám phá ẩm thực VN",
+          "followed_at": "2025-11-03T19:05:23.499Z"
+        }
+      ],
+      "pagination": {
+        "has_next_page": false,
+        "cursor": "cursor_ghdz74dmt",
+        "total_count": 20
+      }
+    }
+  },
+  "status": "success",
+  "timestamp": "2025-11-14T14:26:51.944Z"
+}
