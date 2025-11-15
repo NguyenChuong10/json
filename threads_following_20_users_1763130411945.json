@@ -14,6 +14,7 @@
           "follower_count": 6941,
           "bio": "🍜 Food Blogger | Khám phá ẩm thực VN",
           "followed_at": "2025-10-10T09:04:00.292Z",
+          "title": "Top Food Content Creator",
           "metrics": {
             "likes": 24583,
             "comments": 1247,
@@ -30,6 +31,7 @@
           "follower_count": 16005,
           "bio": "📸 Photographer | Capturing Moments",
           "followed_at": "2025-10-17T22:16:41.013Z",
+          "title": "Visual Storyteller",
           "metrics": {
             "likes": 48291,
             "comments": 2156,
@@ -46,6 +48,7 @@
           "follower_count": 39271,
           "bio": "📸 Photographer | Capturing Moments",
           "followed_at": "2025-09-28T07:52:30.850Z",
+          "title": "Award-Winning Photographer",
           "metrics": {
             "likes": 125847,
             "comments": 5623,
@@ -62,6 +65,7 @@
           "follower_count": 35455,
           "bio": "💻 Software Engineer | Code & Coffee",
           "followed_at": "2025-08-21T18:11:53.395Z",
+          "title": "Tech Lead & Mentor",
           "metrics": {
             "likes": 98234,
             "comments": 4521,
@@ -78,6 +82,7 @@
           "follower_count": 13584,
           "bio": "🚀 Entrepreneur | Startup Founder",
           "followed_at": "2025-09-16T07:01:01.302Z",
+          "title": "Serial Entrepreneur",
           "metrics": {
             "likes": 42156,
             "comments": 1834,
@@ -94,6 +99,7 @@
           "follower_count": 14982,
           "bio": "🍜 Food Blogger | Khám phá ẩm thực VN",
           "followed_at": "2025-09-14T15:28:05.986Z",
+          "title": "Culinary Explorer",
           "metrics": {
             "likes": 51347,
             "comments": 2341,
@@ -110,6 +116,7 @@
           "follower_count": 32753,
           "bio": "🚀 Entrepreneur | Startup Founder",
           "followed_at": "2025-10-26T07:22:20.776Z",
+          "title": "CEO & Innovation Leader",
           "metrics": {
             "likes": 112487,
             "comments": 5234,
@@ -126,6 +133,7 @@
           "follower_count": 4190,
           "bio": "🎵 Music Producer | EDM Vibes",
           "followed_at": "2025-11-04T20:28:23.754Z",
+          "title": "EDM Artist",
           "metrics": {
             "likes": 18947,
             "comments": 892,
@@ -142,6 +150,7 @@
           "follower_count": 12935,
           "bio": "🎭 Digital Artist | NFT Creator",
           "followed_at": "2025-10-05T01:44:58.687Z",
+          "title": "NFT Pioneer",
           "metrics": {
             "likes": 45782,
             "comments": 2014,
@@ -158,6 +167,7 @@
           "follower_count": 5135,
           "bio": "🎭 Digital Artist | NFT Creator",
           "followed_at": "2025-09-10T21:45:20.325Z",
+          "title": "Creative Director",
           "metrics": {
             "likes": 19834,
             "comments": 923,
@@ -174,6 +184,7 @@
           "follower_count": 18215,
           "bio": "📚 Student | Learning & Growing",
           "followed_at": "2025-11-05T12:38:05.383Z",
+          "title": "Future Tech Leader",
           "metrics": {
             "likes": 62145,
             "comments": 2834,
@@ -190,6 +201,7 @@
           "follower_count": 7088,
           "bio": "🎵 Music Producer | EDM Vibes",
           "followed_at": "2025-09-18T05:20:26.932Z",
+          "title": "Beat Maker",
           "metrics": {
             "likes": 28456,
             "comments": 1234,
@@ -206,6 +218,7 @@
           "follower_count": 6566,
           "bio": "🎨 UI/UX Designer | Creative Mind",
           "followed_at": "2025-10-31T18:02:15.125Z",
+          "title": "Design Strategist",
           "metrics": {
             "likes": 23847,
             "comments": 1145,
@@ -222,6 +235,7 @@
           "follower_count": 39720,
           "bio": "📸 Photographer | Capturing Moments",
           "followed_at": "2025-08-18T19:01:09.236Z",
+          "title": "Master Photographer",
           "metrics": {
             "likes": 134521,
             "comments": 6234,
@@ -238,6 +252,7 @@
           "follower_count": 9916,
           "bio": "🎵 Music Producer | EDM Vibes",
           "followed_at": "2025-11-10T04:10:35.321Z",
+          "title": "Sound Designer",
           "metrics": {
             "likes": 38947,
             "comments": 1756,
@@ -254,6 +269,7 @@
           "follower_count": 9705,
           "bio": "💻 Software Engineer | Code & Coffee",
           "followed_at": "2025-10-14T17:48:59.896Z",
+          "title": "Full Stack Developer",
           "metrics": {
             "likes": 34567,
             "comments": 1645,
@@ -270,6 +286,7 @@
           "follower_count": 44052,
           "bio": "✈️ Travel Enthusiast | Explore Vietnam",
           "followed_at": "2025-10-23T19:12:13.897Z",
+          "title": "Adventure Seeker",
           "metrics": {
             "likes": 156234,
             "comments": 7234,
@@ -286,6 +303,7 @@
           "follower_count": 4711,
           "bio": "💪 Fitness Coach | Healthy Lifestyle",
           "followed_at": "2025-10-11T07:39:52.969Z",
+          "title": "Personal Trainer",
           "metrics": {
             "likes": 17845,
             "comments": 834,
@@ -302,6 +320,7 @@
           "follower_count": 19389,
           "bio": "🍜 Food Blogger | Khám phá ẩm thực VN",
           "followed_at": "2025-08-28T07:07:58.683Z",
+          "title": "Food Critic & Reviewer",
           "metrics": {
             "likes": 67234,
             "comments": 3145,
@@ -318,6 +337,7 @@
           "follower_count": 15322,
           "bio": "🍜 Food Blogger | Khám phá ẩm thực VN",
           "followed_at": "2025-11-03T19:05:23.499Z",
+          "title": "Vietnamese Cuisine Expert",
           "metrics": {
             "likes": 53467,
             "comments": 2456,
