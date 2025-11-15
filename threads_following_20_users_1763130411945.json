@@ -13,7 +13,13 @@
           "is_verified": false,
           "follower_count": 6941,
           "bio": "🍜 Food Blogger | Khám phá ẩm thực VN",
-          "followed_at": "2025-10-10T09:04:00.292Z"
+          "followed_at": "2025-10-10T09:04:00.292Z",
+          "metrics": {
+            "likes": 24583,
+            "comments": 1247,
+            "reposts": 856,
+            "shares": 423
+          }
         },
         {
           "id": "user_100001",
@@ -23,7 +29,13 @@
           "is_verified": false,
           "follower_count": 16005,
           "bio": "📸 Photographer | Capturing Moments",
-          "followed_at": "2025-10-17T22:16:41.013Z"
+          "followed_at": "2025-10-17T22:16:41.013Z",
+          "metrics": {
+            "likes": 48291,
+            "comments": 2156,
+            "reposts": 1834,
+            "shares": 912
+          }
         },
         {
           "id": "user_100002",
@@ -33,7 +45,13 @@
           "is_verified": true,
           "follower_count": 39271,
           "bio": "📸 Photographer | Capturing Moments",
-          "followed_at": "2025-09-28T07:52:30.850Z"
+          "followed_at": "2025-09-28T07:52:30.850Z",
+          "metrics": {
+            "likes": 125847,
+            "comments": 5623,
+            "reposts": 4127,
+            "shares": 2341
+          }
         },
         {
           "id": "user_100003",
@@ -43,7 +61,13 @@
           "is_verified": false,
           "follower_count": 35455,
           "bio": "💻 Software Engineer | Code & Coffee",
-          "followed_at": "2025-08-21T18:11:53.395Z"
+          "followed_at": "2025-08-21T18:11:53.395Z",
+          "metrics": {
+            "likes": 98234,
+            "comments": 4521,
+            "reposts": 3156,
+            "shares": 1876
+          }
         },
         {
           "id": "user_100004",
@@ -53,7 +77,13 @@
           "is_verified": false,
           "follower_count": 13584,
           "bio": "🚀 Entrepreneur | Startup Founder",
-          "followed_at": "2025-09-16T07:01:01.302Z"
+          "followed_at": "2025-09-16T07:01:01.302Z",
+          "metrics": {
+            "likes": 42156,
+            "comments": 1834,
+            "reposts": 1245,
+            "shares": 687
+          }
         },
         {
           "id": "user_100005",
@@ -63,7 +93,13 @@
           "is_verified": false,
           "follower_count": 14982,
           "bio": "🍜 Food Blogger | Khám phá ẩm thực VN",
-          "followed_at": "2025-09-14T15:28:05.986Z"
+          "followed_at": "2025-09-14T15:28:05.986Z",
+          "metrics": {
+            "likes": 51347,
+            "comments": 2341,
+            "reposts": 1567,
+            "shares": 834
+          }
         },
         {
           "id": "user_100006",
@@ -73,7 +109,13 @@
           "is_verified": true,
           "follower_count": 32753,
           "bio": "🚀 Entrepreneur | Startup Founder",
-          "followed_at": "2025-10-26T07:22:20.776Z"
+          "followed_at": "2025-10-26T07:22:20.776Z",
+          "metrics": {
+            "likes": 112487,
+            "comments": 5234,
+            "reposts": 3891,
+            "shares": 2145
+          }
         },
         {
           "id": "user_100007",
@@ -83,7 +125,13 @@
           "is_verified": true,
           "follower_count": 4190,
           "bio": "🎵 Music Producer | EDM Vibes",
-          "followed_at": "2025-11-04T20:28:23.754Z"
+          "followed_at": "2025-11-04T20:28:23.754Z",
+          "metrics": {
+            "likes": 18947,
+            "comments": 892,
+            "reposts": 634,
+            "shares": 412
+          }
         },
         {
           "id": "user_100008",
@@ -93,7 +141,13 @@
           "is_verified": false,
           "follower_count": 12935,
           "bio": "🎭 Digital Artist | NFT Creator",
-          "followed_at": "2025-10-05T01:44:58.687Z"
+          "followed_at": "2025-10-05T01:44:58.687Z",
+          "metrics": {
+            "likes": 45782,
+            "comments": 2014,
+            "reposts": 1423,
+            "shares": 756
+          }
         },
         {
           "id": "user_100009",
@@ -103,7 +157,13 @@
           "is_verified": false,
           "follower_count": 5135,
           "bio": "🎭 Digital Artist | NFT Creator",
-          "followed_at": "2025-09-10T21:45:20.325Z"
+          "followed_at": "2025-09-10T21:45:20.325Z",
+          "metrics": {
+            "likes": 19834,
+            "comments": 923,
+            "reposts": 567,
+            "shares": 334
+          }
         },
         {
           "id": "user_100010",
@@ -113,7 +173,13 @@
           "is_verified": false,
           "follower_count": 18215,
           "bio": "📚 Student | Learning & Growing",
-          "followed_at": "2025-11-05T12:38:05.383Z"
+          "followed_at": "2025-11-05T12:38:05.383Z",
+          "metrics": {
+            "likes": 62145,
+            "comments": 2834,
+            "reposts": 1923,
+            "shares": 1045
+          }
         },
         {
           "id": "user_100011",
@@ -123,7 +189,13 @@
           "is_verified": false,
           "follower_count": 7088,
           "bio": "🎵 Music Producer | EDM Vibes",
-          "followed_at": "2025-09-18T05:20:26.932Z"
+          "followed_at": "2025-09-18T05:20:26.932Z",
+          "metrics": {
+            "likes": 28456,
+            "comments": 1234,
+            "reposts": 845,
+            "shares": 523
+          }
         },
         {
           "id": "user_100012",
@@ -133,7 +205,13 @@
           "is_verified": false,
           "follower_count": 6566,
           "bio": "🎨 UI/UX Designer | Creative Mind",
-          "followed_at": "2025-10-31T18:02:15.125Z"
+          "followed_at": "2025-10-31T18:02:15.125Z",
+          "metrics": {
+            "likes": 23847,
+            "comments": 1145,
+            "reposts": 723,
+            "shares": 445
+          }
         },
         {
           "id": "user_100013",
@@ -143,7 +221,13 @@
           "is_verified": true,
           "follower_count": 39720,
           "bio": "📸 Photographer | Capturing Moments",
-          "followed_at": "2025-08-18T19:01:09.236Z"
+          "followed_at": "2025-08-18T19:01:09.236Z",
+          "metrics": {
+            "likes": 134521,
+            "comments": 6234,
+            "reposts": 4567,
+            "shares": 2678
+          }
         },
         {
           "id": "user_100014",
@@ -153,7 +237,13 @@
           "is_verified": true,
           "follower_count": 9916,
           "bio": "🎵 Music Producer | EDM Vibes",
-          "followed_at": "2025-11-10T04:10:35.321Z"
+          "followed_at": "2025-11-10T04:10:35.321Z",
+          "metrics": {
+            "likes": 38947,
+            "comments": 1756,
+            "reposts": 1234,
+            "shares": 789
+          }
         },
         {
           "id": "user_100015",
@@ -163,7 +253,13 @@
           "is_verified": false,
           "follower_count": 9705,
           "bio": "💻 Software Engineer | Code & Coffee",
-          "followed_at": "2025-10-14T17:48:59.896Z"
+          "followed_at": "2025-10-14T17:48:59.896Z",
+          "metrics": {
+            "likes": 34567,
+            "comments": 1645,
+            "reposts": 1123,
+            "shares": 678
+          }
         },
         {
           "id": "user_100016",
@@ -173,7 +269,13 @@
           "is_verified": false,
           "follower_count": 44052,
           "bio": "✈️ Travel Enthusiast | Explore Vietnam",
-          "followed_at": "2025-10-23T19:12:13.897Z"
+          "followed_at": "2025-10-23T19:12:13.897Z",
+          "metrics": {
+            "likes": 156234,
+            "comments": 7234,
+            "reposts": 5123,
+            "shares": 3145
+          }
         },
         {
           "id": "user_100017",
@@ -183,7 +285,13 @@
           "is_verified": false,
           "follower_count": 4711,
           "bio": "💪 Fitness Coach | Healthy Lifestyle",
-          "followed_at": "2025-10-11T07:39:52.969Z"
+          "followed_at": "2025-10-11T07:39:52.969Z",
+          "metrics": {
+            "likes": 17845,
+            "comments": 834,
+            "reposts": 567,
+            "shares": 345
+          }
         },
         {
           "id": "user_100018",
@@ -193,7 +301,13 @@
           "is_verified": false,
           "follower_count": 19389,
           "bio": "🍜 Food Blogger | Khám phá ẩm thực VN",
-          "followed_at": "2025-08-28T07:07:58.683Z"
+          "followed_at": "2025-08-28T07:07:58.683Z",
+          "metrics": {
+            "likes": 67234,
+            "comments": 3145,
+            "reposts": 2134,
+            "shares": 1234
+          }
         },
         {
           "id": "user_100019",
@@ -203,7 +317,13 @@
           "is_verified": false,
           "follower_count": 15322,
           "bio": "🍜 Food Blogger | Khám phá ẩm thực VN",
-          "followed_at": "2025-11-03T19:05:23.499Z"
+          "followed_at": "2025-11-03T19:05:23.499Z",
+          "metrics": {
+            "likes": 53467,
+            "comments": 2456,
+            "reposts": 1678,
+            "shares": 923
+          }
         }
       ],
       "pagination": {
